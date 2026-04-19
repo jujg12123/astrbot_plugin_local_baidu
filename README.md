@@ -1,6 +1,6 @@
-# astrbot-plugin-helloworld
+# astrbot-plugin-baidu
 
-AstrBot 插件模板 / A template plugin for AstrBot plugin feature
+astrbot插件能让机器人调用百度搜索 / bu hui ying wen bu xie
 
 > [!NOTE]
 > This repo is just a template of [AstrBot](https://github.com/AstrBotDevs/AstrBot) Plugin.
